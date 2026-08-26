@@ -1,0 +1,381 @@
+id_user,nama,jenis_user,fakultas,prodi,angkatan
+USR00001,Mahesa Usada,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00002,Puti Najmudin,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2024
+USR00003,"Baktianto Suryono, S.Pd",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2023
+USR00004,Zizi Nurdiyanti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2022
+USR00005,Drs. Harjo Winarno,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2021
+USR00006,Ir. Tina Lestari,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2024
+USR00007,Jamil Prasetya,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00008,Melinda Uyainah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2021
+USR00009,"drg. Najib Siregar, S.Farm",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2024
+USR00010,Pangeran Ardianto,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00011,Ghani Mulyani,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00012,"Tiara Marbun, S.I.Kom",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2020
+USR00013,Fathonah Hidayat,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2021
+USR00014,Sutan Reksa Natsir,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2020
+USR00015,"Puji Kurniawan, S.E.I",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00016,Raihan Haryanto,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2022
+USR00017,Daliono Sudiati,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2021
+USR00018,Tomi Yuliarti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2023
+USR00019,Luis Samosir,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2022
+USR00020,Puti Almira Waluyo,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2023
+USR00021,"Ajeng Iswahyudi, M.TI.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00022,Heryanto Saptono,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2024
+USR00023,Endah Putra,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00024,"Puspa Hariyah, S.I.Kom",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00025,Kasiran Marbun,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00026,"drg. Hadi Maryati, S.Pt",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2023
+USR00027,"Jaga Nugroho, S.E.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00028,Natalia Hariyah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2024
+USR00029,Hana Tarihoran,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2021
+USR00030,Ir. Emas Laksmiwati,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2021
+USR00031,Harjasa Mangunsong,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2022
+USR00032,"Ir. Ami Simbolon, S.E.I",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2021
+USR00033,Puti Oni Winarsih,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00034,"Mutia Wibowo, M.Pd",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2023
+USR00035,Omar Jailani,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00036,Anastasia Pudjiastuti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2021
+USR00037,"R. Tina Farida, S.IP",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2024
+USR00038,"Jarwadi Natsir, S.Pt",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2020
+USR00039,Silvia Pratama,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00040,Ilyas Pratama,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2021
+USR00041,Hj. Restu Nashiruddin,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2024
+USR00042,"Cut Jane Najmudin, S.E.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00043,Koko Purnawati,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00044,R.A. Ulya Zulkarnain,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00045,Yahya Januar,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2020
+USR00046,"Maria Simbolon, M.Farm",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00047,Manah Sihombing,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00048,Kadir Pudjiastuti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00049,Dasa Marbun,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2023
+USR00050,Safina Utama,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00051,"Hesti Permata, M.Pd",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2025
+USR00052,Galuh Puspita,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2025
+USR00053,Hasna Agustina,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2020
+USR00054,Jindra Yuliarti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00055,Unjani Lailasari,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00056,Caraka Wijaya,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2020
+USR00057,Hilda Damanik,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2024
+USR00058,dr. Hana Ramadan,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2025
+USR00059,Dr. Rahmi Latupono,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2024
+USR00060,Tugiman Hassanah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2020
+USR00061,Ir. Maida Adriansyah,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2025
+USR00062,Kenzie Natsir,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2025
+USR00063,Betania Marpaung,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2023
+USR00064,Gamblang Prayoga,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2024
+USR00065,"Umay Riyanti, M.M.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2022
+USR00066,"Dr. Viktor Mandasari, S.IP",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2023
+USR00067,Joko Simbolon,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2023
+USR00068,Labuh Puspita,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00069,Sutan Cager Maryadi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2021
+USR00070,Rosman Wulandari,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2025
+USR00071,"R. Cahyanto Utama, S.Sos",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2023
+USR00072,"Widya Habibi, M.Pd",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2022
+USR00073,Cawuk Firgantoro,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2021
+USR00074,Eman Puspasari,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2020
+USR00075,Rachel Hastuti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00076,Dr. Jono Purnawati,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00077,Kamaria Pranowo,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2024
+USR00078,"Ulya Wahyudin, M.TI.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00079,Fitria Prakasa,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00080,"Kasusra Wijaya, S.Gz",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00081,"KH. Paiman Gunarto, S.Kom",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2023
+USR00082,Estiawan Sihombing,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2025
+USR00083,Virman Wibisono,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00084,"Bajragin Pertiwi, M.Farm",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2021
+USR00085,Carla Haryanti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00086,Ganjaran Marpaung,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2025
+USR00087,Teddy Pertiwi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2024
+USR00088,"Puti Ayu Maryadi, M.Farm",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00089,Prayogo Rahmawati,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2023
+USR00090,"Kamaria Wijayanti, S.Ked",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00091,Gadang Napitupulu,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2023
+USR00092,Ika Yolanda,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00093,"Drs. Febi Hakim, M.Ak",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2022
+USR00094,"R.A. Agnes Permata, S.Farm",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2020
+USR00095,Chelsea Pranowo,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2023
+USR00096,"Lega Mandasari, S.Pt",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2024
+USR00097,Puti Dalima Widodo,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2025
+USR00098,Mahesa Maryadi,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00099,"Eka Latupono, S.Kom",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2022
+USR00100,Banara Haryanti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2024
+USR00101,Nadia Wijayanti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2023
+USR00102,Asmadi Latupono,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00103,Hj. Clara Latupono,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2023
+USR00104,Harjaya Waskita,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2020
+USR00105,Cager Najmudin,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2024
+USR00106,Banawa Safitri,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2020
+USR00107,"Ami Hassanah, S.E.I",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00108,"Jasmin Wijayanti, M.TI.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2022
+USR00109,"drg. Wardi Prayoga, S.Kom",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2023
+USR00110,R.A. Ani Sihombing,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2023
+USR00111,R.A. Mala Wibowo,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2022
+USR00112,Fathonah Nasyiah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2023
+USR00113,Mitra Nugroho,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2022
+USR00114,Sadina Widiastuti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00115,"T. Prayoga Nurdiyanti, S.IP",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2025
+USR00116,Prakosa Suryono,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2023
+USR00117,Baktianto Iswahyudi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2022
+USR00118,Ayu Puspita,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00119,"Harto Utami, M.TI.",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00120,Virman Sirait,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00121,"Cut Ratih Widiastuti, S.Psi",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2020
+USR00122,Cakrawala Riyanti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00123,Keisha Mahendra,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2020
+USR00124,Saadat Rahayu,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00125,Naradi Utama,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2023
+USR00126,Tantri Wibowo,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2021
+USR00127,"Puti Yessi Yolanda, S.Ked",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2021
+USR00128,"Sutan Nasrullah Widiastuti, M.Farm",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00129,dr. Dian Padmasari,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2024
+USR00130,Yuni Budiyanto,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00131,"R. Dartono Hasanah, S.IP",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2023
+USR00132,Enteng Nainggolan,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00133,Kani Pudjiastuti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2020
+USR00134,Puput Utama,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00135,Ina Mustofa,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00136,Slamet Dongoran,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2021
+USR00137,Citra Mangunsong,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2022
+USR00138,Caket Laksmiwati,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2024
+USR00139,Indra Maheswara,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2022
+USR00140,Raisa Marpaung,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2023
+USR00141,Gina Puspita,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2020
+USR00142,Indah Halim,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00143,Liman Safitri,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00144,Ilyas Hutasoit,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00145,Maria Rahayu,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2025
+USR00146,Hendri Pradana,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00147,Budi Suryono,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2025
+USR00148,Ir. Warsa Kurniawan,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2025
+USR00149,Jamalia Rajata,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2020
+USR00150,"R. Yunita Usamah, S.Ked",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2023
+USR00151,Nardi Suwarno,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00152,Drajat Halim,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00153,Agus Susanti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2024
+USR00154,Latika Mandasari,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2020
+USR00155,Hj. Mila Uwais,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2021
+USR00156,Winda Samosir,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2020
+USR00157,Puti Kartika Handayani,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00158,Hj. Victoria Tampubolon,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2022
+USR00159,Intan Anggraini,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00160,"R. Hilda Ramadan, M.Kom.",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00161,"Puti Dina Ramadan, M.M.",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2024
+USR00162,Ade Kusumo,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2024
+USR00163,Kala Halim,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00164,"R. Raditya Mulyani, S.IP",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2023
+USR00165,Daniswara Dongoran,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00166,"H. Prima Zulkarnain, M.Pd",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00167,Baktianto Hartati,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00168,Ika Iswahyudi,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2022
+USR00169,Elisa Anggraini,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2024
+USR00170,Dt. Kenari Budiman,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2021
+USR00171,R. Rosman Winarsih,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2024
+USR00172,Melinda Kurniawan,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2024
+USR00173,Lega Dabukke,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2020
+USR00174,"Puti Jasmin Halim, M.M.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2020
+USR00175,Daliman Melani,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2023
+USR00176,Hasan Hartati,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2022
+USR00177,Dirja Habibi,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00178,Tania Pradana,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2025
+USR00179,Cindy Hardiansyah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2022
+USR00180,"Tgk. Karen Nuraini, S.T.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00181,Ifa Pangestu,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2021
+USR00182,"dr. Cayadi Latupono, S.Kom",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2023
+USR00183,Agus Pratiwi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00184,Elvina Tampubolon,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2022
+USR00185,Dr. Murti Thamrin,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2025
+USR00186,Maria Aryani,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2024
+USR00187,Tgk. Najwa Dabukke,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2022
+USR00188,Banawa Purwanti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2022
+USR00189,Ganda Napitupulu,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2020
+USR00190,"Rangga Pangestu, M.Ak",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2023
+USR00191,Endah Farida,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2022
+USR00192,Zalindra Fujiati,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00193,Maya Maryadi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00194,Garan Padmasari,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00195,Karna Permadi,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2023
+USR00196,"R. Tira Kusmawati, S.Ked",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2024
+USR00197,Asmianto Santoso,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00198,Lidya Anggraini,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2020
+USR00199,Galang Sitompul,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2024
+USR00200,"Lanjar Dongoran, S.Pt",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2024
+USR00201,"R. Asirwanda Hassanah, M.Farm",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2020
+USR00202,Salwa Hastuti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2023
+USR00203,Vino Ramadan,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2025
+USR00204,Ajimat Yolanda,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2021
+USR00205,Restu Prakasa,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00206,KH. Wardaya Puspasari,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2020
+USR00207,Rizki Pratiwi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00208,"H. Sidiq Usamah, S.T.",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2022
+USR00209,Cut Iriana Prayoga,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2020
+USR00210,"Nugraha Haryanto, S.Psi",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2022
+USR00211,"R.M. Artanto Rajasa, M.Ak",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2024
+USR00212,Drs. Ani Rahmawati,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2022
+USR00213,Septi Rahimah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2024
+USR00214,"Dr. Lala Sudiati, M.TI.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2021
+USR00215,Suci Prasetyo,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00216,"Atmaja Napitupulu, M.M.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2023
+USR00217,Dr. Silvia Lazuardi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2024
+USR00218,"drg. Kezia Suartini, M.Pd",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2025
+USR00219,"Icha Jailani, S.Farm",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00220,Cinthia Maryadi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2024
+USR00221,Jayeng Suwarno,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00222,Jayeng Kuswandari,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2020
+USR00223,Tgk. Hilda Pradipta,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2022
+USR00224,"R. Vanesa Sinaga, S.Farm",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2023
+USR00225,Danu Mulyani,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2023
+USR00226,"Lantar Riyanti, S.Pd",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2024
+USR00227,Ir. Calista Suryatmi,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2022
+USR00228,Yani Budiman,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00229,Narji Saptono,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2022
+USR00230,Tasdik Astuti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2022
+USR00231,"Hj. Dina Dongoran, S.Kom",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2020
+USR00232,Anastasia Mulyani,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00233,Yuliana Namaga,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2020
+USR00234,"R. Cici Irawan, S.Farm",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2025
+USR00235,Saadat Manullang,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2021
+USR00236,"Mulya Wahyuni, S.Ked",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2023
+USR00237,"Rangga Wijayanti, S.T.",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00238,Soleh Palastri,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00239,"R. Daryani Uwais, M.Ak",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2022
+USR00240,Drs. Rina Mayasari,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00241,"Drs. Ikin Maulana, S.IP",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2020
+USR00242,Ibun Damanik,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2023
+USR00243,"Zalindra Nasyiah, M.TI.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2020
+USR00244,"Langgeng Siregar, M.TI.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2025
+USR00245,Rahman Hidayanto,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00246,dr. Tugiman Rajata,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2023
+USR00247,Patricia Mandala,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00248,Prabu Lazuardi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2023
+USR00249,Kani Nurdiyanti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2025
+USR00250,H. Wira Pradipta,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2025
+USR00251,Dr. Ophelia Wahyudin,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00252,Ajeng Namaga,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2023
+USR00253,Aswani Dongoran,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2023
+USR00254,Puput Gunawan,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2022
+USR00255,Nabila Simanjuntak,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2024
+USR00256,Salwa Iswahyudi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00257,"R. Zaenab Nainggolan, S.Sos",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2022
+USR00258,Puti Ifa Riyanti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00259,Cornelia Yuliarti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00260,"Bakiadi Manullang, M.TI.",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2025
+USR00261,Samiah Rahayu,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2021
+USR00262,Widya Marbun,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00263,Hj. Lintang Purwanti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2020
+USR00264,R.M. Jaiman Wijaya,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2021
+USR00265,Hj. Zizi Kuswandari,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2020
+USR00266,"Makara Hardiansyah, S.T.",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2023
+USR00267,Lanjar Thamrin,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2020
+USR00268,Nasab Lazuardi,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2023
+USR00269,Widya Irawan,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00270,"Drs. Indra Kusumo, S.I.Kom",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2020
+USR00271,Aurora Lailasari,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00272,Ir. Drajat Nugroho,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2020
+USR00273,Intan Wulandari,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00274,"H. Kadir Puspita, S.H.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2022
+USR00275,Tari Waluyo,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2023
+USR00276,Cici Haryanti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2023
+USR00277,Hj. Salsabila Yuniar,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2022
+USR00278,Elvina Siregar,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2024
+USR00279,"Arsipatra Suartini, S.Farm",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2023
+USR00280,"Suci Suryono, M.Ak",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2021
+USR00281,Kiandra Palastri,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2024
+USR00282,Najib Saptono,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2024
+USR00283,drg. Aisyah Santoso,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2023
+USR00284,Oni Saragih,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2023
+USR00285,Atmaja Handayani,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2025
+USR00286,Candra Purwanti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2020
+USR00287,Ciaobella Winarno,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2023
+USR00288,Capa Tamba,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2023
+USR00289,R.A. Yunita Usamah,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2024
+USR00290,Ika Namaga,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2023
+USR00291,R.M. Abyasa Mardhiyah,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2024
+USR00292,R.A. Hasna Nasyidah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00293,Patricia Mardhiyah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2020
+USR00294,Luwes Gunarto,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2025
+USR00295,Dina Rajata,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00296,Natalia Maryadi,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2020
+USR00297,"Dr. Ibun Suartini, M.Farm",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2020
+USR00298,Irwan Damanik,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2024
+USR00299,Puti Clara Salahudin,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2022
+USR00300,Dariati Kusumo,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00301,R.A. Kani Wijayanti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00302,"Drs. Manah Marpaung, S.Kom",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2025
+USR00303,"Laila Kurniawan, S.H.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2022
+USR00304,Jaswadi Wasita,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2023
+USR00305,Ganep Nashiruddin,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2020
+USR00306,Artawan Rajasa,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2025
+USR00307,Puti Melani,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00308,Himawan Sitorus,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2024
+USR00309,"H. Ajimin Marbun, S.I.Kom",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2020
+USR00310,Umi Sihombing,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2024
+USR00311,Dalima Saptono,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2024
+USR00312,Latif Kuswoyo,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00313,Jamalia Yulianti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2022
+USR00314,Teddy Nababan,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2025
+USR00315,"Icha Saefullah, S.Ked",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2025
+USR00316,"Drs. Hamzah Wacana, S.Pt",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2022
+USR00317,Usyi Laksmiwati,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2023
+USR00318,"Bella Maryati, S.E.I",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2021
+USR00319,"Hana Riyanti, M.Pd",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2021
+USR00320,Drs. Siti Gunarto,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2020
+USR00321,Dr. Yahya Adriansyah,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2025
+USR00322,"drg. Malika Puspasari, S.E.I",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2020
+USR00323,Empluk Hutapea,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2022
+USR00324,Humaira Zulkarnain,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,2023
+USR00325,R. Pandu Prasetyo,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00326,"dr. Sarah Nashiruddin, S.Sos",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,2020
+USR00327,"Harimurti Saptono, M.Pd",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2025
+USR00328,Raisa Wijayanti,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2020
+USR00329,Drs. Reksa Prayoga,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2021
+USR00330,"Ratna Widodo, M.Ak",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2024
+USR00331,drg. Galang Mayasari,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2020
+USR00332,Qori Saragih,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,2021
+USR00333,"Zelaya Iswahyudi, S.Psi",Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2021
+USR00334,Rini Rajata,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00335,Wani Wahyuni,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2025
+USR00336,Balapati Maheswara,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2023
+USR00337,R. Tantri Rahimah,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2025
+USR00338,"Cemeti Hakim, M.Kom.",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2023
+USR00339,Hilda Wibowo,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2021
+USR00340,"Aurora Tampubolon, S.IP",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2021
+USR00341,Jasmani Hutapea,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,2024
+USR00342,Sabrina Halim,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2020
+USR00343,Rafi Riyanti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2023
+USR00344,KH. Prasetya Puspita,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2024
+USR00345,"dr. Daniswara Andriani, S.Psi",Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,2023
+USR00346,Hendra Yuliarti,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Psikologi,2023
+USR00347,Baktianto Mulyani,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,2025
+USR00348,Tgk. Jane Wahyudin,Mahasiswa,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,2025
+USR00349,Cut Kezia Laksita,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,2023
+USR00350,Asirwanda Dongoran,Mahasiswa,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,2021
+USR00351,Hj. Sadina Pertiwi,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Farmasi,
+USR00352,Yani Mansur,Dosen,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,
+USR00353,Paris Prastuti,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,
+USR00354,Elma Hardiansyah,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,
+USR00355,Keisha Waluyo,Dosen,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,
+USR00356,"Saka Saefullah, M.Pd",Dosen,"Fakultas Sosial, Humaniora, & Seni",Psikologi,
+USR00357,drg. Mala Mandasari,Dosen,"Fakultas Sosial, Humaniora, & Seni",Desain Interior,
+USR00358,Alika Simbolon,Dosen,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,
+USR00359,"dr. Eluh Marpaung, S.Ked",Dosen,"Fakultas Sosial, Humaniora, & Seni",Psikologi,
+USR00360,"Tgk. Iriana Anggraini, S.I.Kom",Dosen,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,
+USR00361,Usyi Handayani,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,
+USR00362,Paulin Dabukke,Dosen,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,
+USR00363,Dr. Violet Samosir,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,
+USR00364,"Tgk. Yoga Prasetya, S.Kom",Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,
+USR00365,"Dr. Reksa Sudiati, S.Ked",Dosen,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,
+USR00366,Diah Prasasta,Dosen,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,
+USR00367,"dr. Hana Waskita, S.Sos",Dosen,"Fakultas Sosial, Humaniora, & Seni",Administrasi Bisnis,
+USR00368,"R.M. Sabar Usada, S.E.",Dosen,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,
+USR00369,"dr. Gandi Siregar, S.Gz",Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,
+USR00370,Hasta Usamah,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Teknik Industri,
+USR00371,Rahmi Sudiati,Dosen,"Fakultas Sosial, Humaniora, & Seni",Psikologi,
+USR00372,Ghaliyati Habibi,Dosen,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,
+USR00373,Marsito Wulandari,Dosen,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,
+USR00374,Elisa Nashiruddin,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,
+USR00375,Cayadi Maryadi,Dosen,"Fakultas Sosial, Humaniora, & Seni",Desain Komunikasi Visual,
+USR00376,Elvina Hartati,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,
+USR00377,Natalia Wahyuni,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Informatika,
+USR00378,Ira Wacana,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Keperawatan,
+USR00379,Prakosa Sihotang,Dosen,"Fakultas Sosial, Humaniora, & Seni",Ilmu Komunikasi,
+USR00380,Puti Kayla Dabukke,Dosen,"Fakultas Sains, Teknologi, & Kesehatan",Profesi Ners,
