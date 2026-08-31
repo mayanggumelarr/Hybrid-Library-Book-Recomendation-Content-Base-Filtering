@@ -109,12 +109,10 @@ def evaluate_precision_at_k(recommender: BookRecommender, df_transaksi: pd.DataF
                              k: int = 10, min_riwayat: int = 3, sample_user: int = None,
                              random_state: int = 42):
     """
-    Evaluasi sederhana ala leave-one-out:
-    - Untuk tiap user dengan riwayat peminjaman >= min_riwayat,
-      sembunyikan 1 buku terakhir (test), sisanya jadi profil (train).
-    - Cek apakah buku yang disembunyikan itu masuk ke Top-K rekomendasi
-      hasil recommend_by_user_profile(train).
-    - Precision@K di sini setara Hit-Rate@K (karena hanya 1 relevant item/user).
+]   Menyembunyikan 1 buku terakhir dari riwayat peminjaman, gunakan sbg sampel test
+    Jika rekomendasi mengandung buku test, maka HIT
+
+    precision at k = jumlah HIT yang didapat / jumlah yang dievaluasi
     """
     df_t = df_transaksi.sort_values("tanggal_pinjam")
     user_groups = df_t.groupby("id_user")["id_buku"].apply(list)
@@ -145,14 +143,8 @@ def evaluate_category_relevance_at_k(recommender: BookRecommender, df_transaksi:
                                       k: int = 10, min_riwayat: int = 3, sample_user: int = None,
                                       random_state: int = 42):
     """
-    Evaluasi relevansi topik/kategori (lebih representatif untuk CBF daripada
-    exact-match 1 buku, karena content-based filtering pada dasarnya mengukur
-    kedekatan TOPIK, bukan menebak transaksi acak).
-
-    Untuk tiap user: buku held-out dianggap 'relevan' jika kategori ATAU
-    fakultas buku held-out itu MUNCUL di antara Top-K rekomendasi.
-    Precision@K di sini = rata-rata proporsi Top-K yang kategorinya sama
-    dengan kategori buku held-out (mengukur konsistensi topik rekomendasi).
+    evaluate_category_relevance_at_k = jumlah buku rekomendasi dengan kategori sesuai hide book / total buku direkomendasikan
+    kalau konteksnya rata-rata = rata-rata nilai semua rekomendasi yang dievaluasi
     """
     df_t = df_transaksi.sort_values("tanggal_pinjam")
     user_groups = df_t.groupby("id_user")["id_buku"].apply(list)
