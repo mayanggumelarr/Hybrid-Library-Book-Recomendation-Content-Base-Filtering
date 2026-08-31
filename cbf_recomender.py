@@ -29,7 +29,7 @@ class BookRecommender:
 
     #------------------------------------------------------------------------------------------------
 
-    def fit(self, max_features=5000, ngram_range=(1, 3), min_df=1):
+    def fit(self, max_features=5000, ngram_range=(1, 2), min_df=1):
         ''' 
         Membangun TF-IDF matrix dan cosine similarity matrix
         '''
