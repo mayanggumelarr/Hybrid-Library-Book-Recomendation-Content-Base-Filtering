@@ -101,3 +101,92 @@ class BookRecommender:
         idx = self._id_to_idx[id_buku]
         return self.df_buku.iloc[idx]
 
+# ==========================================================================
+# EVALUASI: Precision@K menggunakan riwayat peminjaman (train/test split)
+# ==========================================================================
+
+def evaluate_precision_at_k(recommender: BookRecommender, df_transaksi: pd.DataFrame,
+                             k: int = 10, min_riwayat: int = 3, sample_user: int = None,
+                             random_state: int = 42):
+    """
+    Evaluasi sederhana ala leave-one-out:
+    - Untuk tiap user dengan riwayat peminjaman >= min_riwayat,
+      sembunyikan 1 buku terakhir (test), sisanya jadi profil (train).
+    - Cek apakah buku yang disembunyikan itu masuk ke Top-K rekomendasi
+      hasil recommend_by_user_profile(train).
+    - Precision@K di sini setara Hit-Rate@K (karena hanya 1 relevant item/user).
+    """
+    df_t = df_transaksi.sort_values("tanggal_pinjam")
+    user_groups = df_t.groupby("id_user")["id_buku"].apply(list)
+    user_groups = user_groups[user_groups.apply(len) >= min_riwayat]
+
+    if sample_user:
+        user_groups = user_groups.sample(
+            min(sample_user, len(user_groups)), random_state=random_state
+        )
+
+    hits = 0
+    total = 0
+    for id_user, buku_list in user_groups.items():
+        train = buku_list[:-1]
+        test = buku_list[-1]
+        rec = recommender.recommend_by_user_profile(train, top_n=k)
+        if len(rec) == 0:
+            continue
+        total += 1
+        if test in rec["id_buku"].values:
+            hits += 1
+
+    precision_at_k = hits / total if total > 0 else 0.0
+    return {"precision_at_k": precision_at_k, "hits": hits, "total_evaluated": total, "k": k}
+
+
+def evaluate_category_relevance_at_k(recommender: BookRecommender, df_transaksi: pd.DataFrame,
+                                      k: int = 10, min_riwayat: int = 3, sample_user: int = None,
+                                      random_state: int = 42):
+    """
+    Evaluasi relevansi topik/kategori (lebih representatif untuk CBF daripada
+    exact-match 1 buku, karena content-based filtering pada dasarnya mengukur
+    kedekatan TOPIK, bukan menebak transaksi acak).
+
+    Untuk tiap user: buku held-out dianggap 'relevan' jika kategori ATAU
+    fakultas buku held-out itu MUNCUL di antara Top-K rekomendasi.
+    Precision@K di sini = rata-rata proporsi Top-K yang kategorinya sama
+    dengan kategori buku held-out (mengukur konsistensi topik rekomendasi).
+    """
+    df_t = df_transaksi.sort_values("tanggal_pinjam")
+    user_groups = df_t.groupby("id_user")["id_buku"].apply(list)
+    user_groups = user_groups[user_groups.apply(len) >= min_riwayat]
+
+    if sample_user:
+        user_groups = user_groups.sample(
+            min(sample_user, len(user_groups)), random_state=random_state
+        )
+
+    precisions = []
+    hit_rate_count = 0
+    total = 0
+
+    for id_user, buku_list in user_groups.items():
+        train = buku_list[:-1]
+        test_id = buku_list[-1]
+        if test_id not in recommender._id_to_idx:
+            continue
+        test_kategori = recommender.get_book_info(test_id)["kategori"]
+
+        rec = recommender.recommend_by_user_profile(train, top_n=k)
+        if len(rec) == 0:
+            continue
+
+        total += 1
+        relevan = (rec["kategori"] == test_kategori).sum()
+        precisions.append(relevan / k)
+        if relevan > 0:
+            hit_rate_count += 1
+
+    return {
+        "avg_precision_at_k_kategori": float(np.mean(precisions)) if precisions else 0.0,
+        "category_hit_rate": hit_rate_count / total if total > 0 else 0.0,
+        "total_evaluated": total,
+        "k": k,
+    }
