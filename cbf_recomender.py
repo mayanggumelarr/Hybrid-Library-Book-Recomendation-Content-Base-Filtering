@@ -99,7 +99,7 @@ class BookRecommender:
     #-------------------------------------------------------------------------------------------------------------------------------
     def get_book_info(self, id_buku: str) -> pd.Series:
         idx = self._id_to_idx[id_buku]
-        return self.df_buku.iloc[idx]
+        return self.df_book.iloc[idx]
 
 # ==========================================================================
 # EVALUASI: Precision@K menggunakan riwayat peminjaman (train/test split)
