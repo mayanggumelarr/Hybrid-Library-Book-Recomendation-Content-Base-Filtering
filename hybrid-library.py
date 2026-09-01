@@ -196,11 +196,11 @@ elif menu == "Rekomendasi Berbasis Riwayat User":
     )
 
     riwayat = df_trx[df_trx["id_user"] == user_terpilih].merge(
-        df_buku[["id_buku", "judul", "kategori"]], on="id_buku"
+        df_buku[["id_buku", "judul", "pengarang", "kategori"]], on="id_buku"
     )
     st.subheader("Riwayat Peminjaman")
     st.dataframe(
-        riwayat[["id_buku", "judul", "kategori", "tanggal_pinjam", "status", "rating"]],
+        riwayat[["id_buku", "judul", "kategori", "pengarang", "tanggal_pinjam", "status", "rating"]],
         use_container_width=True, hide_index=True,
     )
 
