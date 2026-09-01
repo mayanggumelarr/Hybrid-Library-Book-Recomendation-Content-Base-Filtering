@@ -10,7 +10,6 @@ sys.path.append(os.path.join(os.path.dirname(__file__), "..", "src"))
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import joblib
 from cbf_recomender import BookRecommender
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
