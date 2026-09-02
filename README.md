@@ -97,13 +97,12 @@ jupyter notebook cbf-book-rec.ipynb
 
 ## 4. Fitur Aplikasi (Streamlit)
 
+Akses demo sistem di URL: https://hybrid-library-book-recommendation-cbf.streamlit.app/ 
+
 - **Statistik Buku** — ringkasan koleksi: distribusi per fakultas, kategori, jenis koleksi, status peminjaman.
 - **Rekomendasi Berbasis Buku** — pilih 1 buku, tampilkan Top-N buku paling mirip secara konten.
 - **Rekomendasi Berbasis Riwayat User** — bangun profil dari riwayat peminjaman, tampilkan rekomendasi personal.
 
-> Halaman "Evaluasi Model" saat ini di-nonaktifkan (dikomentari) di `hybrid-library.py`.
-> Fungsi evaluasinya (`evaluate_precision_at_k`, `evaluate_category_relevance_at_k`)
-> tetap tersedia di `cbf_recomender.py` dan bisa dipanggil ulang dari notebook.
 
 ## 5. Potensi Pengembangan Lanjutan
 
