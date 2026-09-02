@@ -47,6 +47,7 @@ class BookRecommender:
     def recommend_by_item(self, id_buku: str, top_n: int = 5, exclude_self: bool = True):
         ''' 
         Rekomendasi item-to-item: buku yang mirip dg buku ber-id X
+        berdasarkan content-soup yang dibentuk
         '''
         if id_buku not in self._id_to_idx:
             raise ValueError(f'id_buku "{id_buku}" tidak ditemukan!')
@@ -73,6 +74,8 @@ class BookRecommender:
         Rekomendasi berbasis profil user: rata-rata vector similarity
         dari seluruh buku yang pernah dipinjam user, lalu ambil buku dengan skor
         tertinggi yang belum pernah pipinjam user
+
+        content soup dari buku yang pernah dipinjam
         '''
         idx_list = [self._id_to_idx[b] for b in id_buku_list if b in self._id_to_idx]
         if not idx_list:
