@@ -72,11 +72,11 @@ engine = load_recommender(df_buku)
 # ----------------------------------------------------------------------
 
 st.sidebar.title("Hybrid Library Recommendation System")
-st.sidebar.caption("Content-Based Filtering — TF-IDF + Cosine Similarity")
+st.sidebar.caption("With Content-Based Filtering & Cosine Similarity")
 menu = st.sidebar.radio(
     "Navigasi",
     [
-        "Beranda & Statistik",
+        "Statistik Buku",
         "Rekomendasi Berbasis Buku",
         "Rekomendasi Berbasis Riwayat User"
     ],
@@ -93,7 +93,7 @@ st.sidebar.markdown(
 # HALAMAN 1: BERANDA
 # ----------------------------------------------------------------------
 
-if menu == "Beranda & Statistik":
+if menu == "Statistik Buku":
     st.title("Sistem Rekomendasi Buku Perpustakaan")
     st.markdown(
         "Optimalisasi layanan **Hybrid Library** menggunakan pendekatan "
