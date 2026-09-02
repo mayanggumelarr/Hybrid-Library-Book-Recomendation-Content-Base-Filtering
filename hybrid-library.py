@@ -213,47 +213,4 @@ elif menu == "Rekomendasi Berbasis Riwayat User":
         hasil_display["similarity_score"] = hasil_display["similarity_score"].round(3)
         st.dataframe(hasil_display, use_container_width=True, hide_index=True)
 
-# # ----------------------------------------------------------------------
-# # HALAMAN 4: EVALUASI MODEL
-# # ----------------------------------------------------------------------
-
-# elif menu == "Evaluasi Model":
-#     st.title("Evaluasi Model Content-Based Filtering")
-#     st.markdown(
-#         "Evaluasi menggunakan pendekatan **leave-one-out** pada riwayat peminjaman: "
-#         "buku terakhir yang dipinjam user disembunyikan, lalu diuji apakah sistem "
-#         "dapat merekomendasikannya kembali (atau buku dengan topik yang sama) "
-#         "berdasarkan sisa riwayatnya."
-#     )
-
-#     from cbf_recomender import evaluate_precision_at_k, evaluate_category_relevance_at_k
-
-#     k = st.slider("Nilai K (Top-K rekomendasi)", 5, 20, 10)
-#     n_sample = st.slider("Jumlah sampel user untuk evaluasi", 50, 300, 150)
-
-#     if st.button("Jalankan Evaluasi", type="primary"):
-#         with st.spinner("Menghitung metrik evaluasi..."):
-#             hasil1 = evaluate_precision_at_k(engine, df_trx, k=k, sample_user=n_sample)
-#             hasil2 = evaluate_category_relevance_at_k(engine, df_trx, k=k, sample_user=n_sample)
-
-#         c1, c2, c3 = st.columns(3)
-#         c1.metric(f"Precision@{k} (exact-match buku)", f"{hasil1['precision_at_k']*100:.1f}%")
-#         c2.metric(f"Category Hit-Rate@{k}", f"{hasil2['category_hit_rate']*100:.1f}%")
-#         c3.metric(f"Rata-rata Precision@{k} Kategori", f"{hasil2['avg_precision_at_k_kategori']*100:.1f}%")
-
-#         st.caption(
-#             f"Dievaluasi pada {hasil1['total_evaluated']} user (dengan riwayat peminjaman ≥ 3 transaksi)."
-#         )
-
-#         st.markdown("---")
-#         st.markdown(
-#             """
-#             **Interpretasi metrik:**
-#             - **Precision@K (exact-match)** — seberapa sering buku yang *benar-benar* dipinjam user
-#               berikutnya muncul persis di Top-K rekomendasi. Metrik paling ketat.
-#             - **Category Hit-Rate@K** — proporsi user yang mendapat *minimal 1* rekomendasi
-#               dengan kategori sama dengan buku yang akan dipinjam berikutnya.
-#             - **Rata-rata Precision@K Kategori** — dari K rekomendasi yang diberikan,
-#               berapa persen rata-rata yang topiknya relevan dengan minat user.
-#             """
-#         )
+# END OF CONTENT
